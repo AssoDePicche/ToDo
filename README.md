@@ -1,5 +1,5 @@
 # To Do
-A simple web application made with the purpose of practicing my web development skills
+A simple web application made with the purpose of learn JSON files management with PHP
 
 <img src="./Interface.png">
 
