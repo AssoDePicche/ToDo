@@ -1,0 +1,14 @@
+.container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    max-width: 960px;
+    min-width: 280px;
+    padding: 24px 40px;
+}
+
+.form__container {
+    display: flex;
+    gap: 18px;
+}

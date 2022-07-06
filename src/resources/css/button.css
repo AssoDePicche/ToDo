@@ -1,0 +1,28 @@
+.button {
+    background-color: #FFD743;
+    box-shadow: 4px 4px;
+    color: #232323;
+    font-size: var(--font-size-sm);
+    font-weight: bold;
+    height: 36px;
+    width: 120px;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.button--small {
+    background-color: #ddd;
+    color: #aaa;
+    font-weight: bold;
+    height: 32px;
+    transition: all 200ms ease;
+    width: 100px;
+}
+
+.button--small:hover {
+    color: #232323;
+    cursor: pointer;
+    box-shadow: 4px 4px;
+}

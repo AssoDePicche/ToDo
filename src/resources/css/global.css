@@ -1,0 +1,20 @@
+html,
+body {
+    align-items: center;
+    background-color: #F5F5F5;
+    display: flex;
+    font-size: 62.5%;
+    justify-content: center;
+}
+
+* {
+    appearance: none;
+    border: none;
+    box-sizing: border-box;
+    font-family: "Poppins";
+    margin: 0;
+    outline: none;
+    padding: 0;
+    text-decoration: none;
+    user-select: none;
+}

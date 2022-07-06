@@ -1,0 +1,66 @@
+@media only screen and (max-width: 320px) {
+    :root {
+        --font-size-df: 1.6rem;
+        --font-size-sm: 1.2rem;
+    }
+
+    .input {
+        width: 160px;
+    }
+
+    .button,
+    .button--small {
+        width: 80px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    :root {
+        --font-size-df: 1.6rem;
+        --font-size-sm: 1.2rem;
+    }
+
+    .input {
+        width: 180px;
+    }
+
+    .button--small,
+    .button--small {
+        width: 80px;
+    }
+}
+
+@media only screen and (min-width: 375px) {
+    :root {
+        --font-size-df: 1.8rem;
+        --font-size-sm: 1.4rem;
+    }
+
+    .input {
+        width: 240px;
+    }
+
+    .button,
+    .button--small {
+        width: 80px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    :root {
+        --font-size-df: 2rem;
+        --font-size-sm: 1.6rem;
+    }
+
+    .input {
+        width: 300px;
+    }
+
+    .button {
+        width: 120px;
+    }
+
+    .button--small {
+        width: 100px;
+    }
+}

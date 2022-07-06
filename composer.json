@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "files": [
+            "src/helpers/Constants.php",
+            "src/helpers/Redirect.php",
+            "src/helpers/TaskManager.php"
+        ]
+    }
+}

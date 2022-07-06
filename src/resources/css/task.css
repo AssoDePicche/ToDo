@@ -1,0 +1,13 @@
+.task__container {
+    align-items: center;
+    display: flex;
+    gap: 18px;
+    height: 60px;
+    margin: 12px 0;
+    width: 100%;
+}
+
+.task__container p {
+    font-size: var(--font-size-df);
+    margin-right: auto;
+}
