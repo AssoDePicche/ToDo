@@ -1,7 +1,7 @@
 # To Do
 A simple web application made with the purpose of practicing my web development skills
 
-<img src="./interface.png">
+<img src="./Interface.png">
 
 ## Technologies
 - PHP
