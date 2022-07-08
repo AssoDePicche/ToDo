@@ -1,7 +1,7 @@
 # To Do
 A simple web application made with the purpose of learn JSON files management with PHP
 
-<img src="./Interface.png">
+<img src="./Interface.png" width="1280px">
 
 ## Technologies
 - PHP
